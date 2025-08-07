@@ -1,1 +1,1 @@
-# MonitoramentoDeTemperaturaC
+Realizando o monitoramento da temperatura em graus Celsius no período de 10 dias, em seguida solicitando ao usuário a faixa de temperatura mínima e máxima, para então exibir quais temperaturas estão dentro dessa faixa.
